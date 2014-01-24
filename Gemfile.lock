@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    thor (0.18.1)
+    tinydot (0.0.2)
+      thor (~> 0.18.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  tinydot (= 0.0.2)
