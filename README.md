@@ -1,8 +1,12 @@
 # Tinydot Experiment
 
-## Usage
+## Environemnt
 
-Ubuntu 12.04
+* Ubuntu 12.04
+* Ruby 2.1.0-p0
+* graphviz 2.26.3
+
+## Usage
 
 ```sh
 sudo aptitude install graphviz
